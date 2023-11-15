@@ -1,1 +1,0 @@
-echo "connect to bdd"
